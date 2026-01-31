@@ -5,6 +5,8 @@ This project performs an end-to-end **exploratory data analysis (EDA)** on histo
 The analysis focuses on **driver performance, constructor dominance, era-wise trends, and championship patterns** using Python.
 
 The objective is to uncover **long-term performance insights** and understand how dominance and competition in Formula One have evolved across decades.
+
+Original Dataset Link -- https://www.kaggle.com/datasets/mustafatomak/formula-1-dataset-1950-2021
 ---
 
 ## 🎯 Objectives
